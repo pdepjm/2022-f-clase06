@@ -1,3 +1,3 @@
-# Proyecto Base
+# Clase 06: Recursión, Fold, Estrategias de evaluación
 
-Reemplazar por alguna descripción del proyecto.
+Bitácora de la clase [acá](https://github.com/pdepjm/bitacoras/blob/main/2022/06-F-RecursionFoldLazy.md)
